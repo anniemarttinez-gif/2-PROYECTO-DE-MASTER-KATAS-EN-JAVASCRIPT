@@ -1,0 +1,33 @@
+body {
+    background-color: #0a0a0a;
+    color: #ffcce0;
+    font-family: 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 0 0 15px #ff85c0;
+    border-bottom: 2px solid #ff85c0;
+    padding-bottom: 10px;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    max-width: 450px;
+}
+
+li {
+    background-color: #161616;
+    margin: 20px 0;
+    padding: 25px;
+    border-radius: 20px;
+}
